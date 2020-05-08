@@ -1,0 +1,45 @@
+.main {
+    margin-left: 50px;
+    height: 82vh;
+}
+
+.div-heading{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.detail-name{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.detail-symbol{
+    font-weight: 600;
+    font-size: 17px;
+    line-height: inherit;
+    margin-top: 0px;
+    margin-bottom: 1.14286em;
+}
+
+.detail-price{
+    margin-left: 180px;
+    font-size: 30px;
+}
+
+.detail-change_24h{
+    /* color: #009E73; */
+    font-size: 30px;
+}
+
+table {
+    margin-top: 20px;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+}
+  
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
